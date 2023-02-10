@@ -11,7 +11,7 @@ var cacheFiles = [
     'images/english.png',
     'images/geography.png',
     'images/history.png',
-    'images/lesson.png',
+    'images/lesson.jpg',
     'images/math.png',
     'images/physics.png',
     'images/psychology.png'
