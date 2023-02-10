@@ -3,9 +3,9 @@
     "short_name": "MyLesson","description": "my online lesson store","icons": 
     [        
         {
-            "src": "images/lesson.jpg",
+            "src": "images/english.png",
             "sizes": "512x512",
-            "type": "image/jpg"        
+            "type": "image/png"        
         }    
     ],
     "start_url": "index.html",
