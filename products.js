@@ -26,7 +26,7 @@ let products = [
         title:"Chemistry Tuition ",
         description:"Chemistry tuition after school hours to get improve the students skills",
         price:3000,
-        image:"images/Chemistry.png",
+        image:"images/chemistry.png",
         availableInventory:10,
         space:10,
         location: "Dubai",
